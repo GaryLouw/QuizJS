@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(238, 238, 238);
+}
+
+html,
+body {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#quiz {
+  text-align: center;
+  background-color: #fff;
+  padding: 30px;
+  width: 400px;
+}
+
+.first-page,
+.final-page {
+  text-align: center;
+}
+
+.answers label {
+  display: block;
+}

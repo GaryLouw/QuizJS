@@ -1,0 +1,135 @@
+{
+    "quizName": "Math for beginners",
+    "questions":[
+        {
+            "id": 1,
+            "title": "What is 2 + 2?",
+            "answers":[
+                {
+                    "id": 1,
+                    "answer": "3",
+                    "correct": false
+                },
+                {
+                    "id": 2,
+                    "answer": "4",
+                    "correct": true
+                },
+                {
+                    "id": 3,
+                    "answer": "5",
+                    "correct": false
+                },
+                {
+                    "id": 4,
+                    "answer": "6",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "What is 3 * 6?",
+            "answers":[
+                {
+                    "id": 5,
+                    "answer": "10",
+                    "correct": false
+                },
+                {
+                    "id": 6,
+                    "answer": "12",
+                    "correct": false
+                },
+                {
+                    "id": 7,
+                    "answer": "15",
+                    "correct": false
+                },
+                {
+                    "id": 8,
+                    "answer": "18",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "What is 10 - 8?",
+            "answers":[
+                {
+                    "id": 9,
+                    "answer": "5",
+                    "correct": false
+                },
+                {
+                    "id": 10,
+                    "answer": "4",
+                    "correct": false
+                },
+                {
+                    "id": 11,
+                    "answer": "3",
+                    "correct": false
+                },
+                {
+                    "id": 12,
+                    "answer": "2",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "What is 15 / 5?",
+            "answers":[
+                {
+                    "id": 13,
+                    "answer": "3",
+                    "correct": true
+                },
+                {
+                    "id": 14,
+                    "answer": "5",
+                    "correct": false
+                },
+                {
+                    "id": 15,
+                    "answer": "10",
+                    "correct": false
+                },
+                {
+                    "id": 16,
+                    "answer": "1",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "What is 5 + 7?",
+            "answers":[
+                {
+                    "id": 17,
+                    "answer": "12",
+                    "correct": true
+                },
+                {
+                    "id": 18,
+                    "answer": "13",
+                    "correct": false
+                },
+                {
+                    "id": 19,
+                    "answer": "14",
+                    "correct": false
+                },
+                {
+                    "id": 20,
+                    "answer": "15",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}
